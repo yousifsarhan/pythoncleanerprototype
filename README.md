@@ -3,7 +3,7 @@ Python Data Cleaner
 A lightweight command-line Python tool for cleaning CSV datasets and generating automated data profiling reports.
 Designed for quick preprocessing, exploratory analysis, and portfolio demonstration.
 
----
+
 
  Features
 
@@ -17,7 +17,7 @@ Designed for quick preprocessing, exploratory analysis, and portfolio demonstrat
 * Exports a cleaned CSV file
 * Generates an optional interactive HTML profiling report
 
----
+
 
 Project Structure
 
@@ -110,6 +110,12 @@ Notes
 * The HTML report is generated automatically — no manual editing required.
 * GitHub Pages is not used, as Python does not run in a static environment.
 
+<img width="1863" height="475" alt="Screenshot 2026-01-04 at 8 33 34 PM" src="https<img width="1830" height="675" alt="Screenshot 2026-01-04 at 8 32 32 PM" src="https://github.com/user-attachments/assets/ce20fd54-73d9-4a5d-9ad4-da7788240b39" />
+<img width="1863" height="813" alt="Screenshot 2026-01-04 at 8 33 13 PM" src="https://github.com/user-attachments/assets/e2d82718-6fc3-47bb-9211-4f9dfdc7bea3" />
+<img width="1920" height="993" alt="Screenshot 2026-01-04 at 8 33 02 PM" src="https://github.com/user-attachments/assets/c1752616-7709-413a-8794-725cab14f1a9" />
+<img width="1920" height="993" alt="Screenshot 2026-01-04 at 8 32 51 PM" src="https://github.com/user-attachments/assets/71f56b29-2ef2-46b4-80f1-6468aa96294f" />
+://github.com/user-attachments/assets/024fc428-050c-4b04-b69d-ec9c6616c282" />
+<img width="1863" height="685" alt="Screenshot 2026-01-04 at 8 33 23 PM" src="https://github.com/user-attachments/assets/9dcefb23-2166-4c29-9ef0-fba6943b666c" />
 
 Author
 
